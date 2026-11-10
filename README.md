@@ -1,12 +1,2 @@
- @Noocy33
-👀  TECNOLOGIA 
-"FUTURO BEM PROXIMO"
-🌱 INTERMEDIARIO
-💞️ PORTFOLIO WEB
-📫 Contato
-😄 "NNN"
-⚡ SOFTWARE/HARDWARE
-<!---
-Noocy33/Noocy33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+HTML5 • CSS3 • JavaScript • Node.js • Git • GitHub • JSON • localStorage • Desenvolvimento Web • SaaS •
+PWA • Automação de processos • Ferramentas de inteligência artificial
